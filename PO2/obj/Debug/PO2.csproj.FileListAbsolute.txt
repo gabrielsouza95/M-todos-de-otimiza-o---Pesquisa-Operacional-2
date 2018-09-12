@@ -1,0 +1,11 @@
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\bin\Debug\PO2.exe.config
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\bin\Debug\PO2.exe
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\bin\Debug\PO2.pdb
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.Form1.resources
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.Properties.Resources.resources
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.csproj.GenerateResource.Cache
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.exe
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.pdb
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\bin\Debug\mxparser.dll
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\bin\Debug\mxparser.pdb
+C:\Users\douto_000\Desktop\Unesp\5ºAno1ºSemestre 2018\PO2\PO2\PO2\obj\Debug\PO2.csprojResolveAssemblyReference.cache
